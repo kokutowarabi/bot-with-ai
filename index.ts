@@ -141,4 +141,3 @@ function findMostFrequentWord(messages: string[]): string {
 
   return mostUsedWord
 }
-
